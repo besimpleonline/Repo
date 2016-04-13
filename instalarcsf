@@ -1,0 +1,5 @@
+cd /root
+wget http://www.configserver.com/free/csf.tgz
+tar -xzf csf.tgz
+cd csf
+sh install.sh
